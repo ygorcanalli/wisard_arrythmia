@@ -1,0 +1,208 @@
+
+===================Using only continuous features===================
+====Begin evaluation====
+Thermometer size: 4
+Shape: (452, 824)
+Address size options: [2, 4, 8, 103, 206, 412, 824]
+address_size=2: 0.597606
+address_size=4: 0.590988
+address_size=8: 0.601904
+====Begin evaluation====
+Thermometer size: 5
+Shape: (452, 1030)
+Address size options: [2, 5, 10, 103, 206]
+address_size=2: 0.584370
+address_size=5: 0.591036
+address_size=10: 0.579824
+====Begin evaluation====
+Thermometer size: 5
+Shape: (452, 1030)
+Address size options: [2, 5, 10, 103, 206]
+address_size=2: 0.584370
+address_size=5: 0.591036
+address_size=10: 0.584220
+====Begin evaluation====
+Thermometer size: 5
+Shape: (452, 1030)
+Address size options: [2, 5, 10, 103, 206]
+address_size=2: 0.588814
+address_size=5: 0.582196
+address_size=10: 0.591036
+====Begin evaluation====
+Thermometer size: 5
+Shape: (452, 1030)
+Address size options: [2, 5, 10, 103, 206]
+address_size=2: 0.593162
+address_size=5: 0.584321
+address_size=10: 0.577653
+address_size=103: 0.340808
+address_size=206: 0.024253
+Thermometer size: 6
+Shape: (452, 1236)
+Address size options: [2, 3, 4, 6, 12]
+address_size=2: 0.599732
+address_size=3: 0.602101
+address_size=4: 0.608575
+address_size=6: 0.604227
+address_size=12: 0.608570
+Thermometer size: 7
+Shape: (452, 1442)
+Address size options: [2, 7, 14, 103, 206]
+address_size=2: 0.597802
+address_size=7: 0.597657
+address_size=14: 0.595288
+address_size=103: 0.331726
+address_size=206: 0.022128
+Thermometer size: 8
+Shape: (452, 1648)
+Address size options: [2, 4, 8, 16, 103]
+address_size=2: 0.599928
+address_size=4: 0.602150
+address_size=8: 0.597508
+address_size=16: 0.575428
+address_size=103: 0.342888
+Thermometer size: 9
+Shape: (452, 1854)
+Address size options: [2, 3, 6, 9, 18]
+address_size=2: 0.599928
+address_size=3: 0.599827
+address_size=6: 0.615290
+address_size=9: 0.590940
+address_size=18: 0.595283
+====Begin evaluation====
+Thermometer size: 9
+Shape: (452, 1854)
+Address size options: [2, 3, 6, 9, 18]
+address_size=2: 0.602198
+address_size=3: 0.599827
+address_size=6: 0.599829
+address_size=9: 0.599877
+address_size=18: 0.588816
+Thermometer size: 10
+Shape: (452, 2060)
+Address size options: [2, 4, 5, 10, 20]
+address_size=2: 0.608816
+address_size=4: 0.597655
+address_size=5: 0.602101
+address_size=10: 0.588814
+address_size=20: 0.584220
+Thermometer size: 11
+Shape: (452, 2266)
+Address size options: [2, 11, 22, 103, 206]
+address_size=2: 0.597606
+address_size=11: 0.606495
+address_size=22: 0.593210
+address_size=103: 0.360764
+address_size=206: 0.028746
+Thermometer size: 12
+Shape: (452, 2472)
+Address size options: [2, 3, 4, 6, 8]
+address_size=2: 0.606449
+address_size=3: 0.613019
+address_size=4: 0.595580
+address_size=6: 0.602003
+address_size=8: 0.602101
+Thermometer size: 13
+Shape: (452, 2678)
+Address size options: [2, 13, 26, 103, 206]
+address_size=2: 0.601954
+address_size=13: 0.588718
+address_size=26: 0.584223
+address_size=103: 0.384965
+address_size=206: 0.028746
+Thermometer size: 14
+Shape: (452, 2884)
+Address size options: [2, 4, 7, 14, 28]
+address_size=2: 0.602051
+address_size=4: 0.624227
+address_size=7: 0.606544
+address_size=14: 0.590988
+address_size=28: 0.579875
+Thermometer size: 15
+Shape: (452, 3090)
+Address size options: [2, 3, 5, 6, 10]
+address_size=2: 0.610843
+address_size=3: 0.599780
+address_size=5: 0.608524
+address_size=6: 0.606546
+address_size=10: 0.604177
+
+===================Using all features===================
+
+====Begin evaluation====
+Thermometer size: 4
+Shape: (452, 961)
+Address size options: [31, 961]
+address_size=31: 0.566440
+address_size=961: 0.019906
+Thermometer size: 5
+Shape: (452, 1167)
+Address size options: [3, 389, 1167]
+address_size=3: 0.601954
+address_size=389: 0.019906
+address_size=1167: 0.019906
+Thermometer size: 6
+Shape: (452, 1373)
+Address size options: [1373]
+address_size=1373: 0.019906
+Thermometer size: 7
+Shape: (452, 1579)
+Address size options: [1579]
+address_size=1579: 0.019906
+Thermometer size: 8
+Shape: (452, 1785)
+Address size options: [3, 5, 7, 15, 17]
+address_size=3: 0.606449
+address_size=5: 0.597751
+address_size=7: 0.597657
+address_size=15: 0.593160
+address_size=17: 0.586542
+Thermometer size: 9
+Shape: (452, 1991)
+Address size options: [11, 181, 1991]
+address_size=11: 0.599829
+address_size=181: 0.057787
+address_size=1991: 0.019906
+Thermometer size: 10
+Shape: (452, 2197)
+Address size options: [13, 169, 2197]
+address_size=13: 0.595237
+address_size=169: 0.088314
+address_size=2197: 0.019906
+Thermometer size: 11
+Shape: (452, 2403)
+Address size options: [3, 9, 27, 89, 267]
+address_size=3: 0.608573
+address_size=9: 0.599587
+address_size=27: 0.582047
+address_size=89: 0.522038
+address_size=267: 0.019906
+Thermometer size: 12
+Shape: (452, 2609)
+Address size options: [2609]
+address_size=2609: 0.019906
+Thermometer size: 13
+Shape: (452, 2815)
+Address size options: [5, 563, 2815]
+address_size=5: 0.606546
+address_size=563: 0.019906
+address_size=2815: 0.019906
+Thermometer size: 14
+Shape: (452, 3021)
+Address size options: [3, 19, 53, 57, 159]
+address_size=3: 0.604126
+address_size=19: 0.588718
+address_size=53: 0.582097
+address_size=57: 0.575529
+address_size=159: 0.077398
+Thermometer size: 15
+Shape: (452, 3227)
+Address size options: [7, 461, 3227]
+address_size=7: 0.599829
+address_size=461: 0.019906
+address_size=3227: 0.019906
+===================Using only continuous features===================
+====Begin evaluation====
+====Begin evaluation====
+====Begin evaluation====
+====Begin evaluation====

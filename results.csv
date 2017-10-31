@@ -1,0 +1,79 @@
+===================Using all features===================
+====Begin evaluation====
+Thermometer size: 4
+Shape: (452, 961)
+Address size options: [31, 961]
+address_size=31: 0.581952
+address_size=961: 0.019906
+Thermometer size: 5
+Shape: (452, 1167)
+Address size options: [3, 389, 1167]
+address_size=3: 0.597558
+address_size=389: 0.019906
+address_size=1167: 0.019906
+Thermometer size: 6
+Shape: (452, 1373)
+Address size options: [1373]
+address_size=1373: 0.019906
+Thermometer size: 7
+Shape: (452, 1579)
+Address size options: [1579]
+address_size=1579: 0.019906
+Thermometer size: 8
+Shape: (452, 1785)
+Address size options: [3, 5, 7, 15, 17]
+address_size=3: 0.613065
+address_size=5: 0.595483
+address_size=7: 0.602051
+address_size=15: 0.588665
+address_size=17: 0.586592
+Thermometer size: 9
+Shape: (452, 1991)
+Address size options: [11, 181, 1991]
+address_size=11: 0.590938
+address_size=181: 0.059712
+address_size=1991: 0.019906
+Thermometer size: 10
+Shape: (452, 2197)
+Address size options: [13, 169, 2197]
+address_size=13: 0.593114
+address_size=169: 0.068461
+address_size=2197: 0.019906
+Thermometer size: 11
+Shape: (452, 2403)
+Address size options: [3, 9, 27, 89, 267]
+address_size=3: 0.604273
+address_size=9: 0.610797
+address_size=27: 0.579875
+address_size=89: 0.504993
+address_size=267: 0.022128
+Thermometer size: 12
+Shape: (452, 2609)
+Address size options: [2609]
+address_size=2609: 0.019906
+Thermometer size: 13
+Shape: (452, 2815)
+Address size options: [5, 563, 2815]
+address_size=5: 0.608669
+address_size=563: 0.019906
+address_size=2815: 0.019906
+Thermometer size: 14
+Shape: (452, 3021)
+Address size options: [3, 19, 53, 57, 159]
+address_size=3: 0.606399
+address_size=19: 0.584370
+address_size=53: 0.579776
+address_size=57: 0.579778
+address_size=159: 0.094934
+Thermometer size: 15
+Shape: (452, 3227)
+Address size options: [7, 461, 3227]
+address_size=7: 0.597606
+address_size=461: 0.019906
+address_size=3227: 0.019906
+===================Using only categorical features===================
+====Begin evaluation====
+Thermometer size: 1
+Shape: (452, 137)
+Address size options: [137]
+address_size=137: 0.466765

@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[Aleksander et~al. 1984]{aleksander1984wisard}
+Aleksander, I., Thomas, W., and Bowden, P. (1984).
+\newblock Wisard: a radical step forward in image recognition.
+\newblock {\em Sensor review}, 4(3):120--124.
+
+\bibitem[Grieco et~al. 2010]{Grieco:2010:PPE:1751674.1751890}
+Grieco, B. P.~A., Lima, P. M.~V., De~Gregorio, M., and Fran\c{c}a, F. M.~G.
+  (2010).
+\newblock Producing pattern examples from "mental" images.
+\newblock {\em Neurocomput.}, 73(7-9):1057--1064.
+
+\bibitem[G{\"u}venir et~al. 1997]{guvenir1997supervised}
+G{\"u}venir, H., Acar, B., Demir{\"o}z, G., et~al. (1997).
+\newblock A supervised machine learning algorithm for arrhythmia analysis.
+\newblock In {\em Computers in Cardiology 1997}, pages 433--436. IEEE.
+
+\bibitem[Karhe 2014]{Ijaecs110}
+Karhe, R. (2014).
+\newblock Ecg signal analysis techniques- a survey approach.
+\newblock {\em International Journal of Advanced Electronics and Communication
+  Systems}, 0(0).
+
+\bibitem[{Life in The Fastlane} ]{fastlane}
+{Life in The Fastlane}.
+\newblock The p wave, disponível em
+  \url{http://lifeinthefastlane.com/ecg-library/basics/p-wave/}.
+
+\bibitem[Martin-Garcia et~al. 2014]{martin2014cardiac}
+Martin-Garcia, J.~F., Mora-Jim{\'e}nez, I., Garcia-Alberola, A., and
+  Rojo-Alvarez, J.~L. (2014).
+\newblock Cardiac arrhythmia discrimination using evolutionary computation.
+\newblock In {\em Computing in Cardiology Conference (CinC), 2014}, pages
+  121--124. IEEE.
+
+\bibitem[Salem et~al. 2009]{salem2009machine}
+Salem, A. B.~M., Revett, K., and El-Dahshan, E.-S.~A. (2009).
+\newblock Machine learning in electrocardiogram diagnosis.
+\newblock In {\em Computer Science and Information Technology, 2009. IMCSIT'09.
+  International Multiconference on}, pages 429--433. IEEE.
+
+\bibitem[{UCI Machine Learning Repository} 1998]{uci}
+{UCI Machine Learning Repository} (1998).
+\newblock Arrhythmia dataset, disponível em
+  \url{https://archive.ics.uci.edu/ml/datasets/Arrhythmia}.
+
+\end{thebibliography}
